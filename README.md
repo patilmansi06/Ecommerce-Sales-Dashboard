@@ -65,4 +65,5 @@ If you're a recruiter, mentor, or fellow learner, feel free to explore the dashb
 → This is just the beginning of my data analytics journey!
 
 See What the Dashboard looks like 
+(https://github.com/patilmansi06/Ecommerce-Sales-Dashboard/blob/main/Snapshot%20Of%20Dashboard.png)
 
